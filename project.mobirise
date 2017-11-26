@@ -248,10 +248,10 @@
         }
       ]
     },
-    "page1.html": {
+    "impressum_imprint.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "impressum-imprint",
+        "meta_descr": "impressum, imprint, copyright, disclaimer",
+        "title": "impressum_imprint",
         "order": 1
       },
       "components": [
